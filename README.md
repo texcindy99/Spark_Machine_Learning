@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation <a name="motivation"></a>
 
-This is ... project. I was interestested in using ... data to better understand:
+This is a Spark machine learning project. I was interestested in using customer data of a digital music service to predict custome churn:
 
 1. Q1
 2. Q2
@@ -24,7 +24,7 @@ There is one notebook available here to showcase work related to the above quest
 
 There are ... data files used in the notebook. "..." is the data file for... .
 
-The data file is available at [website](http://....).
+The data file is available for Udacity Data Science Nano Degree students [here](https://video.udacity-data.com/topher/2018/December/5c1d6681_medium-sparkify-event-data/medium-sparkify-event-data.json).
 
 ## Results <a name="results"></a>
 
