@@ -12,11 +12,11 @@ You need to install pyspark to run the code here beyond the Anaconda distributio
 
 ## Project Motivation <a name="motivation"></a>
 
-This is a Spark machine learning project. I was interestested in using customer data of a digital music service to predict custome churn:
+This is a Spark machine learning project. I was interestested in using customer data of a digital music service to predict custome churn by the following steps:
 
-1. Q1
-2. Q2
-3. Q3
+1. Load, clean and wrangle the data;
+2. Create machine learning model to predict customer churn;
+3. Optimize model by hyper parameter tuning.
 
 ## File Descriptions <a name="files"></a>
 
