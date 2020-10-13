@@ -32,4 +32,4 @@ The main findings of the code is ....
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Must give credit to .... for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](http://...).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Udacity for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://classroom.udacity.com/nanodegrees/nd025/parts/3e1c3447-39e1-476e-a5f3-8822fa52f9a3/modules/78172901-c80c-4d14-9640-bf10d509f0b9/lessons/ddbf749e-6536-4081-bf9f-9c20e59aee8c/concepts/373ea389-9540-42dc-916d-fcaa63359d53).  Otherwise, feel free to use the code here as you would like! 
