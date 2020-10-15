@@ -14,9 +14,9 @@ You need to install pyspark to run the code here beyond the Anaconda distributio
 
 This is a Spark machine learning project. I was interestested in using customer data of a digital music service to predict custome churn by the following steps:
 
-1. Load, clean and wrangle the data using Spark SQL;
-2. Create machine learning model to predict customer churn using Spark ML;
-3. Optimize model by hyper parameter tuning.
+1. Load, clean and wrangle the data using Spark SQL and Spark Dataframes;
+2. Use the machine learning APIs within Spark ML to build the model;
+3. Optimize model by hyperparameter tuning.
 
 ## File Descriptions <a name="files"></a>
 
