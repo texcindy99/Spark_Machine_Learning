@@ -22,7 +22,7 @@ This is a Spark machine learning project. I was interestested in using customer 
 
 There is one notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is one data file of 237 MB used in the notebook. "medium-sparkify-event-data.json is the data file for user log of Spartify music service. The data struction is as below. 
+There is one data file of 237 MB used in the notebook. "medium-sparkify-event-data.json is the data file for user log of Spartify music service. The data structure is as below. 
 
 ![ ](data_structure.jpg)
 
